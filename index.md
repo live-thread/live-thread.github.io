@@ -1,3 +1,8 @@
+# Livethread
+
+# Support
+Please contact support at support@livethread.io
+
 # Privacy Policy
 
 This policy applies to all information collected or submitted on Livethread’s website and our apps for iPhone, Android and any other devices and platforms.
