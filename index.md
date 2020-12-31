@@ -1,4 +1,4 @@
-### Privacy Policy
+# Privacy Policy
 
 This policy applies to all information collected or submitted on Livethread’s website and our apps for iPhone, Android and any other devices and platforms.
 
